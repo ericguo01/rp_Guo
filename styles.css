@@ -68,10 +68,13 @@
     font-size: 20px;
 }
 
-.img4 {
-    width: 130%;
-    height: auto;
+.procedure-sizing {
+    width: 520px;
+    height: 210px;
+    display: block;
+    margin: auto;
 }
+
 
 /* ----------------- ID CSS ----------------- */
 
