@@ -14,7 +14,7 @@
 }
 
 .body{
-    background-color: rgb(27, 87, 44);
+    background-color: rgb(27, 87, 45);
 }
 
 .chartjs-sample{
@@ -64,6 +64,15 @@
     font-family: Futura;
 }
 
+.overview li {
+    font-size: 20px;
+}
+
+.img4 {
+    width: 130%;
+    height: auto;
+}
+
 /* ----------------- ID CSS ----------------- */
 
 /* -----------------Underline Animation CSS -----------------*/
@@ -100,4 +109,12 @@
 .hover-underline-animation:hover:after {
     transform: scaleX(1);
     /*transform-origin: bottom left;*/
+}
+
+.hypothesis {
+    width: 70%;
+    margin: 30px auto;
+    padding: 25px;
+    border: 2px solid black;
+    text-align: cent
 }
